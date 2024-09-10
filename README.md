@@ -7,5 +7,5 @@
 > 
 > *- [Andreas Kling](https://github.com/awesomekling), programmer, creator of Serenity OS and Ladybird browser*
 
-### Anecdote of the day:
+### Anecdote of the Day:
 ![Jokes Card](https://readme-jokes.vercel.app/api)
