@@ -11,3 +11,21 @@
 
 ### Anecdote of the Day:
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+<h3>My Lists:</h3>
+<ul>
+  <li>
+    <a href="https://github.com/stars/admtrv/lists/game-rendering-development" target="_blank">👾 Game Rendering Development</a><br>
+    In this list you will find projects related to image processing and graphic rendering
+  </li>
+  <li>
+    <a href="https://github.com/stars/admtrv/lists/game-development-basics" target="_blank">🕹️ Game Development Basics</a><br>
+    List with projects that started my journey into the world of video game development
+  </li>
+  <li>
+    <a href="https://github.com/stars/admtrv/lists/software-development" target="_blank">💾 Software Development</a><br>
+    Discover repositories focused on software and tools development
+  </li>
+</ul>
+
+Also check out my latest repositories — and don't forget to leave a star if you find them useful!
