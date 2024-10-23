@@ -27,6 +27,10 @@
     <a href="https://github.com/stars/admtrv/lists/software-development" target="_blank">💾 Software Development</a><br>
     Discover repositories focused on software and tools development
   </li>
+  <li>
+    <a href="https://github.com/stars/admtrv/lists/artificial-intelligence" target="_blank">🤖 Artificial Intelligence</a><br>
+    Minor projects related to the development of artificial intelligence
+  </li>
 </ul>
 
 Also check out my latest repositories — and don't forget to leave a star if you find them useful!
