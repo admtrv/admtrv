@@ -33,4 +33,4 @@
   </li>
 </ul>
 
-Also check out my latest repositories — and don't forget to leave a star if you find them useful!
+Also check out my latest repositories — don't forget your ⭐!
