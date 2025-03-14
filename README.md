@@ -5,7 +5,8 @@
    \_/\_/\___|_\__\___/_|_|_\___|  \__\___/ |_|_|_\_, |  \___|_|\__|_||_|\_,_|_.__/ |_| |_| \___/_| |_|_\___|
                                                   |__/                                                       
 ```
-I'm Anton Dmitriev
+
+I'm Anton Dmitriev:
 * C/C++ developer 
 * Computer Science student at the [Faculty of Informatics and Information Technologies STU](https://www.fiit.stuba.sk/en.html?page_id=749)
 * Intern Software Engineer at [Nokia Corporation](https://www.nokia.com/)
@@ -17,3 +18,7 @@ to have an understanding of how to do it at all"
 
 - Andreas Kling, C/C++ programmer, creator of SerenityOS and Ladybird browser
 ```
+
+Weekly development stats:
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
