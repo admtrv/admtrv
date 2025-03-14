@@ -21,4 +21,9 @@ to have an understanding of how to do it at all"
 
 Weekly development stats:
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
