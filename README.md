@@ -23,11 +23,11 @@ Weekly development stats:
 <!--START_SECTION:waka-->
 
 ```txt
-C++              5 hrs 49 mins   ███████░░░░░░░░░░░░░░░░░░   28.39 %
-Python           4 hrs 14 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.70 %
-Rust             2 hrs 45 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.44 %
-HTML             1 hr 35 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
-Markdown         1 hr 32 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
+C++              5 hrs 49 mins   ██████░░░░░░░░░░░░░░░░░░░   24.29 %
+Python           4 hrs 14 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.71 %
+HTML             3 hrs 25 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.29 %
+JavaScript       2 hrs 46 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.55 %
+Rust             2 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.50 %
 ```
 
 <!--END_SECTION:waka-->
