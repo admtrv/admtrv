@@ -19,6 +19,19 @@ to have an understanding of how to do it at all"
 - Andreas Kling, C/C++ programmer, creator of SerenityOS and Ladybird browser
 ```
 
+
+I enjoy building things from scratch:
+
+<p align="center">
+  <img src="resources/physics.gif" width="450" alt="Physical Simulation" />
+</p>
+<p align="center">
+  <i>Physical simulation from repository with 
+  	<a href="https://github.com/admtrv/PhysicalBasicsComputerGames/tree/main/task10">Game Physics
+  	</a>
+  </i>
+</p>
+
 Weekly development stats:
 <!--START_SECTION:waka-->
 
