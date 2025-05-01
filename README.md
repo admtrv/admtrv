@@ -36,11 +36,11 @@ Weekly development stats:
 <!--START_SECTION:waka-->
 
 ```txt
-SQL              4 hrs 3 mins    █████████████████████████   99.93 %
-Rust             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-TOML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+SQL              4 hrs 3 mins    █████████████████▓░░░░░░░   71.21 %
+Rust             1 hr 38 mins    ███████▒░░░░░░░░░░░░░░░░░   28.77 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 CSS              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
