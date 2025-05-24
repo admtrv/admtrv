@@ -22,15 +22,20 @@ to have an understanding of how to do it at all"
 
 I enjoy building things from scratch:
 
-<p align="center">
-  <img src="resources/physics.gif" width="450" alt="Physical Simulation" />
-</p>
-<p align="center">
-  <i>Physical simulation from repository with 
-  	<a href="https://github.com/admtrv/PhysicalBasicsComputerGames/tree/main/task10">Game Physics
-  	</a>
-  </i>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" valign="top">
+        <img src="resources/physics.gif" height="225" alt="Physical Simulation" /><br/>
+        <sub><i>Physical simulation from <a href="https://github.com/admtrv/PhysicalBasicsComputerGames/">Game Physics</a></i></sub>
+      </td>
+      <td align="center" valign="top">
+        <img src="https://github.com/admtrv/objcurses/raw/main/resources/images/demo.gif" height="225" alt="3D Viewer Demo" /><br/>
+        <sub><i><a href="https://github.com/admtrv/objcurses">objcurses</a> - 3D object viewer in console using ASCII</i></sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 Weekly development stats:
 <!--START_SECTION:waka-->
