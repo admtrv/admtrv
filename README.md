@@ -27,7 +27,7 @@ I enjoy building things from scratch:
     <tr>
       <td align="center" valign="top">
         <a href="https://github.com/admtrv/PhysicalBasicsComputerGames/">
-          <img src="resources/physics.gif" height="225" alt="Physical Simulation" />
+          <img src="https://github.com/admtrv/PhysicalBasicsComputerGames/raw/main/resources/plane.gif" height="225" alt="Physical Simulation" />
         </a><br/>
         <sub><i>Physical simulation from <a href="https://github.com/admtrv/PhysicalBasicsComputerGames/">Game Physics</a></i></sub>
       </td>
