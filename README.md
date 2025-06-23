@@ -45,7 +45,8 @@ Weekly development stats:
 <!--START_SECTION:waka-->
 
 ```txt
-C++   7 mins          █████████████████████████   100.00 %
+Java             25 mins         █████████████████████████   99.65 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
