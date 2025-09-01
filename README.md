@@ -23,23 +23,11 @@ to have an understanding of how to do it at all"
 I enjoy building things from scratch:
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" valign="top">
-        <a href="https://github.com/admtrv/PhysicalBasicsComputerGames/">
-          <img src="https://github.com/admtrv/PhysicalBasicsComputerGames/raw/main/resources/plane.gif" height="225" alt="Physical Simulation" />
-        </a><br/>
-        <sub><i>Physical simulation from <a href="https://github.com/admtrv/PhysicalBasicsComputerGames/">Game Physics</a></i></sub>
-      </td>
-      <td align="center" valign="top">
-        <a href="https://github.com/admtrv/objcurses">
-          <img src="https://github.com/admtrv/objcurses/raw/main/resources/images/demo.gif" height="225" alt="3D Viewer Demo" />
-        </a><br/>
-        <sub><i><a href="https://github.com/admtrv/objcurses">objcurses</a> - 3D object viewer in console using ASCII</i></sub>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/admtrv/objcurses">
+    <img src="https://raw.githubusercontent.com/admtrv/objcurses/main/resources/images/demo.gif" width="450" alt="3D Viewer Demo">
+  </a>
 </div>
+
 
 Weekly development stats:
 <!--START_SECTION:waka-->
