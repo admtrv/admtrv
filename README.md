@@ -33,11 +33,7 @@ Weekly development stats:
 <!--START_SECTION:waka-->
 
 ```txt
-C++        18 mins         █████████████▓░░░░░░░░░░░   54.75 %
-C/C        14 mins         ██████████▓░░░░░░░░░░░░░░   42.40 %
-C          0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-CMake      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
