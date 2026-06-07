@@ -33,7 +33,9 @@ Weekly development stats:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TeX        7 hrs 26 mins         ███████████████████████▓░   94.94 %
+Markdown   13 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+Text       10 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
 ```
 
 <!--END_SECTION:waka-->
