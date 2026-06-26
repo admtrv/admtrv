@@ -33,9 +33,7 @@ Weekly development stats:
 <!--START_SECTION:waka-->
 
 ```txt
-GitIgnore file   0 secs                █████████████████░░░░░░░░   68.04 %
-CMake            0 secs                ████▓░░░░░░░░░░░░░░░░░░░░   18.82 %
-C++              0 secs                ███▒░░░░░░░░░░░░░░░░░░░░░   13.14 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
