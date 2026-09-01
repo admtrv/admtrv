@@ -8,8 +8,8 @@
 
 I'm Anton Dmitriev:
 * C/C++ developer 
-* Computer Science student at the [Faculty of Informatics and Information Technologies STU](https://www.fiit.stuba.sk/en.html?page_id=749)
-* Intern Software Engineer at [Nokia Corporation](https://www.nokia.com/)
+* Computer Science student at the [Faculty of Informatics and Information Technologies STU](https://www.fiit.stuba.sk/en)
+* Software Engineer at [Nokia Corporation](https://www.nokia.com/)
 * Passionate about software & core game engineering (game engines, physics, graphics)
 
 ```
