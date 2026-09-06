@@ -33,7 +33,11 @@ Weekly development stats:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   0 secs                █████████████████████████   100.00 %
+C++              2 hrs 52 mins         █████████████████▒░░░░░░░   69.60 %
+C/C              39 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.70 %
+Markdown         11 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
+CMake            9 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
+Objective-C      9 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
 ```
 
 <!--END_SECTION:waka-->
