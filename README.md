@@ -23,6 +23,12 @@ to have an understanding of how to do it at all"
 I enjoy building things from scratch:
 
 <div align="center">
+  <a href="https://github.com/admtrv/BulletEngine">
+    <img src="https://raw.githubusercontent.com/admtrv/BulletEngine/main/assets/images/Demo.gif" width="450" alt="Game Engine Demo">
+  </a>
+</div>
+
+<div align="center">
   <a href="https://github.com/admtrv/objcurses">
     <img src="https://raw.githubusercontent.com/admtrv/objcurses/main/resources/images/demo.gif" width="450" alt="3D Viewer Demo">
   </a>
