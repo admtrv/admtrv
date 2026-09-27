@@ -6,6 +6,8 @@
                                                   |__/                                                       
 ```
 
+<br>
+
 I'm Anton Dmitriev:
 * C/C++ developer 
 * Computer Science student at the [Faculty of Informatics and Information Technologies STU](https://www.fiit.stuba.sk/en)
@@ -19,31 +21,39 @@ to have an understanding of how to do it at all"
 - Andreas Kling, C/C++ programmer, creator of SerenityOS and Ladybird browser
 ```
 
+<br>
 
 I enjoy building things from scratch:
 
 <div align="center">
   <a href="https://github.com/admtrv/BulletEngine">
-    <img src="https://raw.githubusercontent.com/admtrv/BulletEngine/main/assets/images/Demo.gif" width="450" alt="Game Engine Demo">
+    <img src="https://raw.githubusercontent.com/admtrv/BulletEngine/main/assets/images/Demo.gif" width="100%" alt="Game Engine Demo">
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/admtrv/objcurses">
-    <img src="https://raw.githubusercontent.com/admtrv/objcurses/main/resources/images/demo.gif" width="450" alt="3D Viewer Demo">
+    <img src="https://raw.githubusercontent.com/admtrv/objcurses/main/resources/images/demo.gif" width="100%" alt="3D Viewer Demo">
   </a>
 </div>
 
+<div align="center">
+  <a href="https://github.com/admtrv/RayCasting">
+    <img src="https://raw.githubusercontent.com/admtrv/RayCasting/main/images/game.gif" width="100%" alt="Ray Casting Demo">
+  </a>
+</div>
+
+<br>
 
 Weekly development stats:
 <!--START_SECTION:waka-->
 
 ```txt
-C++              9 hrs 56 mins         ███████████████▓░░░░░░░░░   62.65 %
-Markdown         3 hrs 16 mins         █████░░░░░░░░░░░░░░░░░░░░   20.59 %
-Other            1 hr 6 mins           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 %
-C/C              50 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
-CMake            11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+C++              10 hrs 5 mins         ███████████████▒░░░░░░░░░   61.61 %
+Markdown         3 hrs 16 mins         █████░░░░░░░░░░░░░░░░░░░░   19.95 %
+Other            1 hr 6 mins           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
+C/C              1 hr 1 min            █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
+Lua              14 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
 ```
 
 <!--END_SECTION:waka-->
