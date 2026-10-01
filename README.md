@@ -27,7 +27,7 @@ I enjoy building things from scratch:
 
 <div align="center">
   <a href="https://github.com/admtrv/BulletEngine">
-    <img src="https://raw.githubusercontent.com/admtrv/BulletEngine/main/assets/images/Demo.gif" width="100%" alt="Game Engine Demo">
+    <img src="https://raw.githubusercontent.com/admtrv/BulletEngine/main/assets/images/Scene2.gif" width="100%" alt="Game Engine Demo">
   </a>
 </div>
 
